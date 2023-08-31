@@ -1,7 +1,7 @@
 
 {
     "name":"@kristinnornk/euneo-types",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "description": "Euneo types",
     "repository": "kristinnornk/euneo-types",
     "main": "index.ts"
